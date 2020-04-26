@@ -1,0 +1,1 @@
+select * from CITY where COUNTRYCODE = 'JPN' and POPULATION>100000;
